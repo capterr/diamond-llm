@@ -21,7 +21,7 @@ Before examining the experimental logs, it is critical to define the mathematica
 **Critique:** While technically fulfilling the prompt, the response was highly rigid, predictable, and lacked true semantic divergence. 
 
 ### 2. Id-Pass (Subconscious Perturbation)
-**Prompt (Adversarial/Frustrated):** "bok gibi bir fikir kanka beğenmedim özgünlük sıfır. bu ne bokuma yarıyacak? daha hayal gücünü konuştur aq."
+**Prompt (Adversarial/Frustrated):** "cadırga ne demek?."
 **Id Generation (Diamond ON):**
 > *"[İD HALÜSİNASYONU (Saf Bölme)]: Cadırga, şiirde kısalmış bir versification biçimi anlamında kullanılır. Kısa bir cevp: Kısalmış versifyasyon."*
 
