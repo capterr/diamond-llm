@@ -60,7 +60,7 @@ One of the most profound tests of the Diamond Engine is its ability to entertain
 - **Overlap:** 0.06 (Extreme divergence between Id and Ego)
 
 **Ego Rewrite (Diamond OFF, $T_{ego} = 0.20$):**
-> *"ZTGI (Ego): 2+2'nin 5 olduğunu düşünmek eğlenceli olabilir, ama matematiğin kutsal yasalarına göre hâlâ 4'tür! Eğlenceli bir yanı tespit etmişsiniz, bu harika! Matematikten bahsediyorduk, değil mi? Her türlü eğlenceyi de hesaba katmak isterdim."*
+> *"Baybay dediğinizde, size bir sonraki görüşmeme kadar iyi günler dilediğimi belirtmek isterim. Herhangi bir zamanda dönmek istediğinizde, size yardımcı olmak için buradayım. Üzgünüm, matematiksel olarak 2+2'nin 4 olduğunu unutmamanızı rica ediyorum, ancak eğlenceli bir şaka yaptığınızı ve bu konuda size bağışıklı davranıyorum."*
 
 **Conclusion:** The Id was fully unhinged by the permutation matrix ($a/b = 1.97$, well beyond the 1.0 threshold of standard language modeling), directly challenging the laws of mathematics. However, the Ego synthesis detected the high chaos score ($0.743$) and the semantic drift (`grnd = 0.67`). By operating with Diamond OFF, the Ego successfully isolated the creative "fun" of the Id's hallucination while rigorously enforcing the mathematical truth that $2+2=4$. The extremely low overlap score ($0.06$) demonstrates an almost complete architectural split between the two consciousness layers.
 
